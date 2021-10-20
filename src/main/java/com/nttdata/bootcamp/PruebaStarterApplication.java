@@ -13,8 +13,7 @@ public class PruebaStarterApplication {
 	
 	public static void main(String[] args) {
 		SpringApplication.run(PruebaStarterApplication.class, args);
-		
-		
+				
 	}
 
 }
